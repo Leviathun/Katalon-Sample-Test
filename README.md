@@ -33,5 +33,5 @@ This repository contains a sample automation project built with Katalon Studio. 
    ```bash
    git clone [https://github.com/your-username/Katalon-Sample-Test.git](https://github.com/your-username/Katalon-Sample-Test.git)
 
-   ---
+---
 *Developed as an educational project to enhance software engineering and automate testing skills.*
